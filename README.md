@@ -1,3 +1,3 @@
 # Spiral-Image-Steganography-for-concealing-informtion-using-Python
 
-Using Least Significant Bit (LSB) to store and conceal information in images by employing Image Steganography.
+Using RSA to encrypt messages and Least Significant Bit (LSB) to store and conceal information in images by employing Image Steganography.
